@@ -65,7 +65,7 @@ echo $faker->creditCardExpirationDateString();
 
 echo $faker->creditCardExpirationDateString(false);
 
-// '01/18', '09/21'
+// '01/18', '09/29'
 
 echo $faker->creditCardExpirationDateString(true, 'm-Y');
 
